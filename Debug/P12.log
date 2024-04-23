@@ -1,0 +1,6 @@
+﻿  funktionen.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  funktionen.obj : /DEBUG:FASTLINK wird nicht unterstützt, wenn verwalteter Code vorhanden ist; Link wird mit /DEBUG:FULL neu gestartet
+FehlerAbfangen.lib(fehler_abfangen.obj) : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /OPT:LBR ignoriert.
+  P12.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Programmieren_2\P12\Debug\P12.exe
+  P12.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Programmieren_2\P12\Debug\P12.pdb (Partial PDB)
